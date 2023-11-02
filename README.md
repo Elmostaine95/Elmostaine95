@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badr-eddine El Mostaine</h1>
 <h3 align="center">A passionate Backend Developer and Project Manager</h3>
 
-- 🔭 I’m currently working on **Smart Marine**
+- 🔭 I’m currently working on **Nuitée**
 
 - 🌱 I’m currently learning **Kubernetes Application Developer (CKAD)**
 
